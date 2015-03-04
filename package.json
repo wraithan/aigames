@@ -1,0 +1,33 @@
+{
+  "name": "aigames",
+  "version": "1.0.0",
+  "description": "theaigames.com command line interface",
+  "main": "index.js",
+  "bin": {
+    "aigames": "./index.js"
+  },
+  "dependencies": {
+    "jsdom": "^3.1.2",
+    "request": "^2.53.0",
+    "tough-cookie": "^0.12.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "theaigames",
+    "aigames",
+    "warlight"
+  ],
+  "author": "Wraithan <xwraithanx@gmail.com>",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wraithan/aigames.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wraithan/aigames/issues"
+  },
+  "homepage": "https://github.com/wraithan/aigames"
+}
