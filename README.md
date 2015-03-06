@@ -3,7 +3,7 @@
 ## install
 
 ```
-npn install aigames -g 
+npm install aigames -g
 ```
 
 I've tested on Node.js 0.10.21 because that is what theaigames.com uses and I was too lazy to change versions, patches welcome if you need it to work other places.
